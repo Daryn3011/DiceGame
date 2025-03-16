@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\GeneralNontransitiveDiceGame\bin\Debug\net8.0\GeneralNontransitiveDiceGame.exe
+C:\Users\User\Desktop\GeneralNontransitiveDiceGame\bin\Debug\net8.0\GeneralNontransitiveDiceGame.deps.json
+C:\Users\User\Desktop\GeneralNontransitiveDiceGame\bin\Debug\net8.0\GeneralNontransitiveDiceGame.runtimeconfig.json
+C:\Users\User\Desktop\GeneralNontransitiveDiceGame\bin\Debug\net8.0\GeneralNontransitiveDiceGame.dll
+C:\Users\User\Desktop\GeneralNontransitiveDiceGame\bin\Debug\net8.0\GeneralNontransitiveDiceGame.pdb
+C:\Users\User\Desktop\GeneralNontransitiveDiceGame\obj\Debug\net8.0\GeneralNontransitiveDiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeneralNontransitiveDiceGame\obj\Debug\net8.0\GeneralNontransitiveDiceGame.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeneralNontransitiveDiceGame\obj\Debug\net8.0\GeneralNontransitiveDiceGame.AssemblyInfo.cs
+C:\Users\User\Desktop\GeneralNontransitiveDiceGame\obj\Debug\net8.0\GeneralNontransitiveDiceGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeneralNontransitiveDiceGame\obj\Debug\net8.0\GeneralNontransitiveDiceGame.dll
+C:\Users\User\Desktop\GeneralNontransitiveDiceGame\obj\Debug\net8.0\refint\GeneralNontransitiveDiceGame.dll
+C:\Users\User\Desktop\GeneralNontransitiveDiceGame\obj\Debug\net8.0\GeneralNontransitiveDiceGame.pdb
+C:\Users\User\Desktop\GeneralNontransitiveDiceGame\obj\Debug\net8.0\GeneralNontransitiveDiceGame.genruntimeconfig.cache
+C:\Users\User\Desktop\GeneralNontransitiveDiceGame\obj\Debug\net8.0\ref\GeneralNontransitiveDiceGame.dll
+C:\Users\User\Desktop\GeneralNontransitiveDiceGame\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\User\Desktop\GeneralNontransitiveDiceGame\obj\Debug\net8.0\GeneralNontransitiveDiceGame.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeneralNontransitiveDiceGame\obj\Debug\net8.0\GeneralN.2236A556.Up2Date
