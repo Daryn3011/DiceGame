@@ -10,9 +10,4 @@ public class Dice
     {
         Faces = faces;
     }
-
-    public int Roll()
-    {
-        return Faces[RandomNumberGenerator.GetInt32(Faces.Length)];
-    }
 }
